@@ -19,4 +19,8 @@ void libb_how_are_you () {
 
 }
 
+void libb_happy () {
+
+}
+
 /* EOF */
